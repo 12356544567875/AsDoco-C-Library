@@ -158,7 +158,10 @@ class SHADER {
 
 // output function
 
-int main(){
+
+
+// A code for your undersatanding
+/*int main(){
 //	TEMPLATE temp;
 	//temp.use.codeEditor();
 	// temp.use.processing();
@@ -168,4 +171,4 @@ int main(){
 	lineSpacing(20);
 	alph text = "myText";
 	write_text(text);
-}
+}*/
